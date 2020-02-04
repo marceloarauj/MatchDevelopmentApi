@@ -1,0 +1,14 @@
+C:\Users\Marcelo\Documents\Projetos\AspnetProjects\MatchDevelopment\MatchDevelopment\bin\Release\netcoreapp2.2\MatchDevelopment.deps.json
+C:\Users\Marcelo\Documents\Projetos\AspnetProjects\MatchDevelopment\MatchDevelopment\bin\Release\netcoreapp2.2\MatchDevelopment.runtimeconfig.json
+C:\Users\Marcelo\Documents\Projetos\AspnetProjects\MatchDevelopment\MatchDevelopment\bin\Release\netcoreapp2.2\MatchDevelopment.runtimeconfig.dev.json
+C:\Users\Marcelo\Documents\Projetos\AspnetProjects\MatchDevelopment\MatchDevelopment\bin\Release\netcoreapp2.2\MatchDevelopment.dll
+C:\Users\Marcelo\Documents\Projetos\AspnetProjects\MatchDevelopment\MatchDevelopment\bin\Release\netcoreapp2.2\MatchDevelopment.pdb
+C:\Users\Marcelo\Documents\Projetos\AspnetProjects\MatchDevelopment\MatchDevelopment\obj\Release\netcoreapp2.2\MatchDevelopment.csprojAssemblyReference.cache
+C:\Users\Marcelo\Documents\Projetos\AspnetProjects\MatchDevelopment\MatchDevelopment\obj\Release\netcoreapp2.2\MatchDevelopment.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Documents\Projetos\AspnetProjects\MatchDevelopment\MatchDevelopment\obj\Release\netcoreapp2.2\MatchDevelopment.RazorAssemblyInfo.cache
+C:\Users\Marcelo\Documents\Projetos\AspnetProjects\MatchDevelopment\MatchDevelopment\obj\Release\netcoreapp2.2\MatchDevelopment.RazorAssemblyInfo.cs
+C:\Users\Marcelo\Documents\Projetos\AspnetProjects\MatchDevelopment\MatchDevelopment\obj\Release\netcoreapp2.2\MatchDevelopment.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Documents\Projetos\AspnetProjects\MatchDevelopment\MatchDevelopment\obj\Release\netcoreapp2.2\MatchDevelopment.AssemblyInfo.cs
+C:\Users\Marcelo\Documents\Projetos\AspnetProjects\MatchDevelopment\MatchDevelopment\obj\Release\netcoreapp2.2\MatchDevelopment.RazorTargetAssemblyInfo.cache
+C:\Users\Marcelo\Documents\Projetos\AspnetProjects\MatchDevelopment\MatchDevelopment\obj\Release\netcoreapp2.2\MatchDevelopment.dll
+C:\Users\Marcelo\Documents\Projetos\AspnetProjects\MatchDevelopment\MatchDevelopment\obj\Release\netcoreapp2.2\MatchDevelopment.pdb
