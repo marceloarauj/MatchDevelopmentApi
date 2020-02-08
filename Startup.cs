@@ -60,10 +60,12 @@ namespace MatchDevelopment
                             .AllowAnyOrigin()
                             .AllowAnyMethod()
                             .AllowAnyHeader()
-                            .AllowCredentials());
+                            .DisallowCredentials());
 
             var webSocketOptions = new WebSocketOptions();
             webSocketOptions.AllowedOrigins.Add("http://localhost:4200");
+            webSocketOptions.AllowedOrigins.Add("http://localhost:4200/inicio");
+            app.UseWebSockets(webSocketOptions);
 
             EndpointsService.RegistrarEndpoints(app);
 
